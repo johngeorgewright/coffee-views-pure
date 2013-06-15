@@ -1,0 +1,28 @@
+{
+  "name": "coffee-views-pure",
+  "version": "0.0.1",
+  "description": "A coffee-views extension to add YUI's pure functionality",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "nodeunit src/test",
+    "prepublish": "coffee -c -b -o build src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johngeorgewright/coffee-views-pure.git"
+  },
+  "keywords": [
+    "coffee",
+    "views",
+    "pure"
+  ],
+  "author": "John Wright <johngeorge.wright@gmail.com>",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/johngeorgewright/coffee-views-pure/issues"
+  },
+  "devDependencies": {
+    "coffee-views": "~4.2.0",
+    "nodeunit": "~0.8.0"
+  }
+}

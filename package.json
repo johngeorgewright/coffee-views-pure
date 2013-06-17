@@ -1,6 +1,6 @@
 {
   "name": "coffee-views-pure",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A coffee-views extension to add YUI's pure functionality",
   "main": "build/index.js",
   "scripts": {

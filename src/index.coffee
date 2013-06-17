@@ -53,6 +53,12 @@ module.exports =
     attrs.class.push 'pure-control-group'
     @div attrs, content
 
+  controls: ->
+    {content, attrs} = tagArguments arguments
+    addClassToAttrs attrs
+    attrs.class.push 'pure-controls'
+    @div attrs, content
+
   inputGroup: ->
     {content, attrs} = tagArguments arguments
     addClassToAttrs attrs

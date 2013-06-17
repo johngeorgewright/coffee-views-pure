@@ -5,7 +5,8 @@
   "main": "build/index.js",
   "scripts": {
     "test": "nodeunit src/test",
-    "prepublish": "coffee -c -b -o build src"
+    "prepublish": "coffee -c -b -o build src",
+    "dev": "coffee -c -b -w -o build src"
   },
   "repository": {
     "type": "git",

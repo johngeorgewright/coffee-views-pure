@@ -1,6 +1,8 @@
 Pure Coffee Views
 =================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/johngeorgewright/coffee-views-pure.svg)](https://greenkeeper.io/)
+
 An extension to [coffee-views](https://github.com/johngeorgewright/coffee-views) that adds YUI's pure views.
 
 Installation

@@ -23,7 +23,7 @@
     "url": "https://github.com/johngeorgewright/coffee-views-pure/issues"
   },
   "devDependencies": {
-    "coffee-views": "~4.2.0",
-    "nodeunit": "~0.8.0"
+    "coffee-views": "~5.3.0",
+    "nodeunit": "~0.10.2"
   }
 }
